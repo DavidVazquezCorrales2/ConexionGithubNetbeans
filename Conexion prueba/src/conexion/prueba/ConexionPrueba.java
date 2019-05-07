@@ -17,6 +17,7 @@ public class ConexionPrueba {
     public static void main(String[] args) {
         // TODO code application logic here
    System.out.println("Primer commit/pull github netbeans");
+   System.out.println("HOLA MUNDO");
     }
     
 }
