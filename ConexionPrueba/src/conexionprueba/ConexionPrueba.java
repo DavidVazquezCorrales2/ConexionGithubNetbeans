@@ -17,8 +17,6 @@ public class ConexionPrueba {
     public static void main(String[] args) {
         // TODO code application logic here
     /*Creando una Rama en GITHUB*/
-        
-        
     }
     
 }
